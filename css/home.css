@@ -1,0 +1,22 @@
+body{
+	background-color: #2A2B2A;
+	font-family: sans-serif;
+}
+
+h1{
+	font-family: Times New Roman;
+	font-size:  35px;
+	color: #E1CFCF;
+}
+
+.course{
+	background-color: #030303;
+	font-size: 35px;
+	padding: 10px 10px;
+	color: yellow;
+}
+
+.course:hover{
+	background-color: white;
+	color: black;
+}
