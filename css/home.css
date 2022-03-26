@@ -9,6 +9,7 @@ h1{
 	color: #E1CFCF;
 }
 
+}
 .course{
 	background-color: #030303;
 	font-size: 35px;
@@ -20,3 +21,7 @@ h1{
 	background-color: white;
 	color: black;
 }
+.math
+{
+	padding: 20px 20px;
+	color: pink;
